@@ -12,3 +12,6 @@
 2.0.0.2 - March 10, 2023
 - Updated application signing certifcate to an OV Sectigo cert for Ember Prototypes
 - Removed existing printer presets as they were adding confusion and weren't necessary
+
+2.0.0.3 - December 22, 2023
+- Updated device detection
