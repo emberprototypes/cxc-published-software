@@ -15,3 +15,6 @@
 
 2.0.0.3 - December 22, 2023
 - Updated device detection
+
+2.0.0.4 - January 2, 2024
+- Updated device detection with better algorithm that looks for hardware ID instead of names
