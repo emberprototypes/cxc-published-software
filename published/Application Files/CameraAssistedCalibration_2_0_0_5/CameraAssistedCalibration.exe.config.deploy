@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <section name="CameraAssistedCalibration.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false"/>
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8"/>
+    </startup>
+    <userSettings>
+        <CameraAssistedCalibration.Properties.Settings>
+            <setting name="idexPrinter" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="invertOffsetX" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="invertOffsetY" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="physicalOffsetDistance" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="leftOrigin" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="exposure" serializeAs="String">
+                <value>-3</value>
+            </setting>
+            <setting name="zoom" serializeAs="String">
+                <value>1</value>
+            </setting>
+        </CameraAssistedCalibration.Properties.Settings>
+    </userSettings>
+</configuration>
