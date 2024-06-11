@@ -18,3 +18,6 @@
 
 2.0.0.4 - January 2, 2024
 - Updated device detection with better algorithm that looks for hardware ID instead of names
+
+2.0.0.5 - June 10, 2024
+- Fixed a bug where offset text could be cut off when calibrating tool changers
