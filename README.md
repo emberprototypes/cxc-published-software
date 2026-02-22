@@ -21,3 +21,8 @@
 
 2.0.0.5 - June 10, 2024
 - Fixed a bug where offset text could be cut off when calibrating tool changers
+
+2.1.0.0 - Feb 22, 2026
+- Added functionality for V2 CXC devices
+- Fixed a bug that limited image resolution on both V1 and V2 cameras
+- 
