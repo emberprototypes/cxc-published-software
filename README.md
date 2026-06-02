@@ -25,4 +25,7 @@
 2.1.0.0 - Feb 22, 2026
 - Added functionality for V2 CXC devices
 - Fixed a bug that limited image resolution on both V1 and V2 cameras
-- 
+
+2.2.0.0 - June 1, 2026
+- Fixed a bug that crashed the program and lagged during zoom in and out
+- Reduced frame rate lag on V2 camera feed
